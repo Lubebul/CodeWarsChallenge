@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace Codewars_challenge
+namespace CodeWarsChallenge
 {
     class Avvio
     {

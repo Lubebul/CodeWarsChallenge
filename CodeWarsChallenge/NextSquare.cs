@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Codewars_challenge
+namespace CodeWarsChallenge
 {
     public class NextSquare  //dato un quadrato, trovare il successivo numero quadrato tondo
     {

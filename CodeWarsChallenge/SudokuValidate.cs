@@ -4,9 +4,11 @@ using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
 
+
+
 namespace CodeWarsChallenge
 {
-    class SudokuValidate
+    public class SudokuValidate
     {
         public static bool ValidateSolution(int[][] board)
         {
